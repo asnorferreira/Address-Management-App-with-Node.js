@@ -1,0 +1,26 @@
+[
+  {
+    "cep": "01246-904",
+    "logradouro": "Avenida Doutor Arnaldo",
+    "complemento": "715",
+    "bairro": "Pacaembu",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "ibge": "3550308",
+    "gia": "1004",
+    "ddd": "11",
+    "siafi": "7107"
+  },
+  {
+    "cep": "50030-230",
+    "logradouro": "Cais do Apolo",
+    "complemento": "",
+    "bairro": "Recife",
+    "localidade": "Recife",
+    "uf": "PE",
+    "ibge": "2611606",
+    "gia": "",
+    "ddd": "81",
+    "siafi": "2531"
+  }
+]

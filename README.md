@@ -1,6 +1,15 @@
 # CEP Finder (Node.js)
+![Languages used](https://img.shields.io/github/languages/count/asnorferreira/Address-Management-App-with-Node.js?style=flat-square)
+![Repository size](https://img.shields.io/github/repo-size/asnorferreira/Address-Management-App-with-Node.js?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/asnorferreira/Address-Management-App-with-Node.js?style=flat-square)
 
 Find and store Brazilian addresses with ease using Node.js and 'utils-playground'. This application simplifies address management by providing efficient CEP validation, seamless integration with 'utils-playground' for address lookup, and convenient JSON file storage.
+
+## Technologies Used
+
+- Node.js
+- Express.js
+- JSON for data storage
 
 🚀 **Key Features:**
 - CEP validation
@@ -8,16 +17,36 @@ Find and store Brazilian addresses with ease using Node.js and 'utils-playground
 - Insomnia-tested
 - JSON file storage
 
-## Getting Started
+## How to Run the Project
+To run this project locally, you need to:
 
-### Prerequisites
+- Install dependencies for both backend 
 
-Ensure you have Node.js and npm installed on your machine.
+```shell
+npm install
+```
 
-### Installation
+- Run each project with
 
-1. Clone the repository:
+```shell
+npm run dev
+```
 
-   ```bash
-   git clone https://github.com/your-username/cep-finder-node.git
-   cd cep-finder-node
+## Contributing
+
+This repository is using [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) and [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), so if you want to contribute:
+
+- create a branch from develop branch;
+- make your contributions;
+- open a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to develop branch;
+- wait for discussion and future approval;
+
+I thank you in advance for any contribution.
+
+## Status
+
+Finished
+
+## License
+
+[MIT](./LICENSE)

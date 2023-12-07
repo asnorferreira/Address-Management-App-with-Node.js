@@ -3,6 +3,6 @@ const { foundAdress } = require('../controller/cep');
 
 const router = express();
 
-router.get('/enderecos/:cep',   foundAdress);
+router.get('/enderecos/:cep', foundAdress);
 
 module.exports = router;

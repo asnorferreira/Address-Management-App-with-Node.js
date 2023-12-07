@@ -1,9 +1,12 @@
 # CEP Finder (Node.js)
+
 ![Languages used](https://img.shields.io/github/languages/count/asnorferreira/Address-Management-App-with-Node.js?style=flat-square)
 ![Repository size](https://img.shields.io/github/repo-size/asnorferreira/Address-Management-App-with-Node.js?style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/asnorferreira/Address-Management-App-with-Node.js?style=flat-square)
 
 Find and store Brazilian addresses with ease using Node.js and 'utils-playground'. This application simplifies address management by providing efficient CEP validation, seamless integration with 'utils-playground' for address lookup, and convenient JSON file storage.
+
+<img src="/assets/test1.jpeg">
 
 ## Technologies Used
 
@@ -12,15 +15,17 @@ Find and store Brazilian addresses with ease using Node.js and 'utils-playground
 - JSON for data storage
 
 🚀 **Key Features:**
+
 - CEP validation
 - 'utils-playground' integration
 - Insomnia-tested
 - JSON file storage
 
 ## How to Run the Project
+
 To run this project locally, you need to:
 
-- Install dependencies for both backend 
+- Install dependencies for both backend
 
 ```shell
 npm install
